@@ -1,0 +1,24 @@
+{
+  "name": "xz-as-a-service",
+  "version": "0.0.0",
+  "description": "xz compression as a service",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "pump": "^1.0.3"
+  },
+  "devDependencies": {},
+  "bin": {
+    "xz-as-a-service": "./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/xz-as-a-service.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/xz-as-a-service/issues"
+  },
+  "homepage": "https://github.com/mafintosh/xz-as-a-service"
+}
