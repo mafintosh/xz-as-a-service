@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "minimist": "^1.2.0",
+    "multicast-dns": "^6.2.0",
     "pump": "^1.0.3"
   },
   "devDependencies": {},
